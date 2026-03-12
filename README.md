@@ -5,7 +5,7 @@ This project reveals a previously unresolved connectivity-based organization of 
 - Can diffusion MRI connectivity reveal internal structure of the substantia nigra?
 - Do connectivity patterns from SN subregions differ between Parkinson’s disease patients and healthy controls?
 - Can connectivity patterns predict clinical motor symptom severity?
-- 
+  
 ## Datasets
 - Human Connectome Project (7T diffusion MRI)
 - Parkinson’s Progression Markers Initiative
